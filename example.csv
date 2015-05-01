@@ -1,0 +1,5 @@
+Zone,Hostname,Type,TTL
+barbetta.me,test.barbetta.me,A,500
+barbetta.me,test2.barbetta.me,CNAME,400
+barbetta.me,test3.barbetta.me,NS,300
+barbetta.me,test4.barbetta.me,MX,200
