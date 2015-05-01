@@ -5,7 +5,7 @@ An example script that that updates the TTL value for a list of hostnames. The i
 
 ```
 $ python bulk_ttl_update.py help
-Expected use: python bulk_ttl_update.py username password example.csv [use_http host:port]
+Expected use: python bulk_ttl_update.py username password example.csv [url]
 Argument 1:
         bulk_ttl_update.py -- The name of your python file
 Argument 2:
