@@ -14,7 +14,6 @@ Argument 3:
         password -- UltraDNS account password
 Argument 4:
         example.csv -- The CSV file containing your update information (see example.csv)
-Arguments 5 and 6 (optional):
-        use_http -- Specify this value as 'True' if you wish to use a test environment
-        host:port -- The hostname and port of your test environment (Example: test-restapi.ultradns.com:443)
+Argument 5 (optional):
+        url -- The url of your test environment (Example: https://test-restapi.ultradns.com)
 ```
